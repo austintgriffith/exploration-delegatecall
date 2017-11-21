@@ -1,0 +1,22 @@
+{
+  "name": "exploration-delegatecall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austintgriffith/exploration-delegatecall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austintgriffith/exploration-delegatecall/issues"
+  },
+  "homepage": "https://github.com/austintgriffith/exploration-delegatecall#readme",
+  "dependencies": {
+    "clevis": "0.0.10"
+  }
+}
